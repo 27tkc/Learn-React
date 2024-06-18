@@ -1,9 +1,10 @@
 Learning Order:
+
 		pizza-menu
 		Profile-Card
-	  date-counter
-	  date-counter-v2
-	  flashcards
+	  	date-counter
+	  	date-counter-v2
+	  	flashcards
 		Advice-App
 		Travel-List-App
 		Accordion 
