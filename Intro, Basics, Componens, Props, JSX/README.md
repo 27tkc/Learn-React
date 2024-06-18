@@ -1,12 +1,13 @@
 Learning Order:
 
-		pizza-menu
-		Profile-Card
-	  	date-counter
-	  	date-counter-v2
-	  	flashcards
-		Advice-App
-		Travel-List-App
-		Accordion 
-		Accordion-V2
-		Tip-Calculator-App
+		pizza-menu [Minor]
+		Profile-Card [Minor]
+	  	date-counter [Minor]
+	  	date-counter-v2 [Minor]
+	  	flashcards [Minor]
+		Advice-App [Minor]
+		Travel-List-App [Major]
+		Accordion [Minor]
+		Accordion-V2 [Minor]
+		Tip-Calculator-App [Major]
+		Eat-N-Split-App [Major]
